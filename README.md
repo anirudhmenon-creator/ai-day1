@@ -1,1 +1,1 @@
-# ai-day1
+# ai-internship
